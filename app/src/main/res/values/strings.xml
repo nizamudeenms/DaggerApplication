@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerApplication</string>
+    <string name="empty_text">Empty</string>
+</resources>
